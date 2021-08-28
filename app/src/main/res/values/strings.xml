@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SoundAlarm</string>
+    <string name="app_title">Welcome to Alarm Service app!</string>
+    <string name="app_description">
+        \u2022 To create AlarmService button press CREATE ALARM SERVICE button.\n\n
+        \u2022 CREATE ALARM SERVICE button will become a DELETE ALARM SERVICE button.\n\n
+        \u2022 By default AlarmService button will appear on TOP LEFT position of Window.\n\n
+        \u2022 If needed drag AlarmService button to change button position in Window.\n\n
+        \u2022 Start and stop Alarm sound process is done by pressing AlarmService button.\n\n
+        \u2022 To delete AlarmService button press DELETE ALARM SERVICE button.\n\n
+    </string>
+    <string name="create_alarm_service">Create Alarm Service</string>
+    <string name="delete_alarm_service">Delete Alarm Service</string>
+    <string name="alarm_service">Alarm Service</string>
+</resources>
